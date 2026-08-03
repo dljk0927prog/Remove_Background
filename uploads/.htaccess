@@ -1,0 +1,2 @@
+# Deny direct access to uploads
+Require all denied

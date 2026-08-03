@@ -1,0 +1,21 @@
+# Generated processing files
+outputs/*
+!outputs/.htaccess
+uploads/*
+!uploads/.htaccess
+
+# Images & archives (do not commit)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.zip
+*.rar
+*.7z
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
