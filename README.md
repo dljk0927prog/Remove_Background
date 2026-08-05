@@ -115,7 +115,7 @@ That’s it — you can start using the system right away.
 
 ## 🎬 Demo Video
 
-Demo video coming soon.
+👉 **[Watch Demo Video](https://drive.google.com/file/d/1vBRqg48wClHRCTaDzgZPEMCzBIuLJ_M9/view?usp=sharing)**
 
 ---
 
@@ -123,6 +123,7 @@ Demo video coming soon.
 
 | Resource | Link |
 |---|---|
+| 🎬 Demo Video | [Watch](https://drive.google.com/file/d/1vBRqg48wClHRCTaDzgZPEMCzBIuLJ_M9/view?usp=sharing) |
 | 💻 Local (XAMPP) | `http://localhost/Remove_Background/` |
 | 📦 GitHub Repository | [dljk0927prog/Remove_Background](https://github.com/dljk0927prog/Remove_Background) |
 
