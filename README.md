@@ -29,7 +29,7 @@ Drag-and-drop or click to choose JPG / PNG / WEBP / GIF (max 8 MB), then one-cli
 |---|---|
 | 🖥️ Frontend | HTML5, CSS3, JavaScript |
 | 🔙 Backend | PHP (pages + optional API helpers) |
-| 🤖 AI cutout | Browser-side (@imgly/background-removal via CDN) |
+| 🤖 AI cutout | Browser-side (`@imgly/background-removal` via CDN) |
 | 🏠 Local Server | XAMPP (Apache) |
 | ☁️ Hosting | Shared hosting friendly (e.g. iFastNet) |
 
@@ -37,7 +37,7 @@ Drag-and-drop or click to choose JPG / PNG / WEBP / GIF (max 8 MB), then one-cli
 
 ## 📁 Project Structure
 
-`
+```
 Remove_Background/
 ├── index.php
 ├── manual.php
@@ -60,7 +60,7 @@ Remove_Background/
 ├── outputs/
 ├── uploads/
 └── README.md
-`
+```
 
 ---
 
@@ -69,19 +69,19 @@ Remove_Background/
 1. Download this project from GitHub:  
    **[Code → Download ZIP](https://github.com/dljk0927prog/Remove_Background)**  
    or clone:
-   `ash
+   ```bash
    git clone https://github.com/dljk0927prog/Remove_Background.git
-   `
-2. Extract the ZIP (if downloaded), then rename the folder to Remove_Background.
+   ```
+2. Extract the ZIP (if downloaded), then rename the folder to `Remove_Background`.
 3. Put the folder into XAMPP:
-   `
+   ```
    C:\xampp\htdocs\Remove_Background\
-   `
+   ```
 4. Open **XAMPP Control Panel** and start **Apache**.
 5. Open your browser and go to:
-   `
+   ```
    http://localhost/Remove_Background/
-   `
+   ```
 
 That’s it — you can start using the system right away.
 
@@ -123,14 +123,14 @@ Demo video coming soon.
 
 | Resource | Link |
 |---|---|
-| 💻 Local (XAMPP) | http://localhost/Remove_Background/ |
+| 💻 Local (XAMPP) | `http://localhost/Remove_Background/` |
 | 📦 GitHub Repository | [dljk0927prog/Remove_Background](https://github.com/dljk0927prog/Remove_Background) |
 
 ---
 
 ## ✅ Quick Test Plan
 
-- [ ] Open http://localhost/Remove_Background/ with Apache running
+- [ ] Open `http://localhost/Remove_Background/` with Apache running
 - [ ] Upload a JPG/PNG under 8 MB and complete cutout
 - [ ] Confirm checkerboard transparency and PNG download
 - [ ] Switch 中文 / EN on Home and Manual
